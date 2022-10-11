@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Laboratorio03",
+			"Path": "D:\\sis457\\Laboratorios\\Laboratorio03\\Source\\Laboratorio03.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Laboratorio03Editor",
+			"Path": "D:\\sis457\\Laboratorios\\Laboratorio03\\Source\\Laboratorio03Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

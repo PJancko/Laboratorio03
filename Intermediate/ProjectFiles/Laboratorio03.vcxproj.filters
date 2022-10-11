@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Laboratorio03.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E50FB764-5AC5-40AA-B968-D81AE35B8016}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Laboratorio03.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Laboratorio03Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3B22E5C8-A6A2-4ED6-921B-B1A815A60AE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Laboratorio03">
+      <UniqueIdentifier>{DC539CE2-AE57-4459-B321-21A7A0E43C8E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Laboratorio03\Ball.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Ball.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Laboratorio03\Laboratorio03.Build.cs">
+      <Filter>Source\Laboratorio03</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Laboratorio03\Laboratorio03.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Laboratorio03.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laboratorio03\Laboratorio03GameModeBase.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Laboratorio03GameModeBase.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laboratorio03\Ladrillo.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Ladrillo.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laboratorio03\Paddle.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Paddle.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laboratorio03\Powerups.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\Powerups.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laboratorio03\ScoreTable.cpp">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laboratorio03\ScoreTable.h">
+      <Filter>Source\Laboratorio03</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
